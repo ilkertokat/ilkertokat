@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm İlker Tokat</h1>
 <h3 align="center">Computer Programming Student, Full-Stack Developer and IT Support Specialist from Türkiye</h3>
 
+- 📫 How to reach me **ilker.tokatt@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ilkertokat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilkertokat" height="30" width="40" /></a>
