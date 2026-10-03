@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://ilkertokat.com"><img src="https://img.shields.io/badge/Portfolio-ilkertokat.com-4f8cff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ilkertokat/"><img src="https://img.shields.io/badge/LinkedIn-ilkertokat-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:iletisim@ilkertokat.com"><img src="https://img.shields.io/badge/Email-iletisim%40ilkertokat.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:ilker@ilkertokat.com"><img src="https://img.shields.io/badge/Email-ilker%40ilkertokat.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://ilkertokat.com/ozgecmis/"><img src="https://img.shields.io/badge/CV-view-0b1020?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"></a>
 </p>
 
