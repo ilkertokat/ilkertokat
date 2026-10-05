@@ -28,6 +28,7 @@ I build end-to-end software across **web, mobile and systems**: from the interfa
 | [**WP Denetim**](https://github.com/ilkertokat/wp-denetim) | Passive WordPress security audit with an A–F grade, HTML/JSON reports and a CI gate | Python · httpx · rich · typer |
 | [**Rutin**](https://github.com/ilkertokat/rutin) | Gamified Android habit tracker with an adaptive notification engine; no Gradle, zero dependencies | Java · Android SDK |
 | [**Demir**](https://github.com/ilkertokat/demir) | Offline-first workout & weight tracker that adapts to your goal and equipment | React · Tailwind · PWA · Android |
+| [**Teklif**](https://github.com/ilkertokat/teklif) | In-browser quote & invoice builder: VAT grouping, amount in words, PDF export | React · TypeScript · Vite · Vitest |
 
 <sub>Backend and tooling projects ship with automated tests and CI; every README is bilingual (EN/TR). More on <a href="https://ilkertokat.com">ilkertokat.com</a>.</sub>
 
